@@ -1,5 +1,5 @@
 +++
-title = "Placeholder Text"
+title = "Yaşam koçu"
 description = "Lorem Ipsum Dolor Si Amet"
 author = "Hugo Authors"
 date = "2019-03-09"
