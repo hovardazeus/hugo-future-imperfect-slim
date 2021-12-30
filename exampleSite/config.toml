@@ -1,7 +1,7 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://hugo-future-imperfect-slim.netlify.app/"
-DefaultContentLanguage  = "en"
+DefaultContentLanguage  = "tr"
 title                   = "Hugo Future Imperfect Slim"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
@@ -54,8 +54,8 @@ disableLanguages        = []
     languageMenu        = true
 
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    header                = "Yaşam koçu"
+    paragraph             = "Yaşam Koçlarıyla Kariyer Planlamaları <a href='https://yasamkocu.com/'>Yaşam koçu</a>."
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
@@ -65,10 +65,10 @@ disableLanguages        = []
       src                 = "img/main/logo.jpg"
       shape               = "circle"
       width               = ""
-      alt                 = "Hugo Future Imperfect Slim"
+      alt                 = "Yaşam koçu"
 
   [params.sidebar]
-    about               = "This theme was developed for Hugo static site generator."
+    about               = "Yaşam Koçlarıyla Kariyer Planlamaları"
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
@@ -107,7 +107,7 @@ disableLanguages        = []
     weight            = 1
 
   [[menu.main]]
-    name              = "About"
+    name              = "Hakkında"
     identifier        = "about"
     url               = "about"
     pre               = "<i class='far fa-id-card'></i>"
@@ -121,14 +121,14 @@ disableLanguages        = []
     weight            = 3
 
   [[menu.main]]
-    name              = "Categories"
+    name              = "Kategori"
     identifier        = "categories"
     url               = "categories"
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 5
 
   [[menu.main]]
-    name              = "Contact"
+    name              = "İletişim"
     identifier        = "contact"
     url               = "contact"
     pre               = "<i class='far fa-envelope'></i>"
@@ -137,8 +137,8 @@ disableLanguages        = []
 [Languages]
 
   [Languages.en]
-    LanguageCode        = "en"
-    LanguageName        = "English"
+    LanguageCode        = "tr"
+    LanguageName        = "Türkçe"
     weight              = 1
 
   [Languages.fr]
