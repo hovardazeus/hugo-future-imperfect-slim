@@ -1,145 +1,26 @@
 +++
-title = "Markdown Syntax Guide"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-author = "Hugo Authors"
-date = "2019-03-11"
+title = "Yaşam koçları"
+description = "Yaşam koçları, kendi danışanlarına ait üst limitlerin keşfedilmesini sağlar."
+author = "Admin"
+date = "2021-12-30"
 tags = ["markdown", "css", "html", "themes"]
 categories = ["themes", "syntax"]
 [[images]]
-  src = "img/2019/03/pic01.jpg"
-  alt = "Mountain Range Through Clouds"
-  stretch = "horizontal"
-[[images]]
-  src = "img/2019/03/pic02.jpg"
-  alt = "Desert Scene"
-[[images]]
-  src = "img/2019/03/pic03.jpg"
-  alt = "Valley"
+  src = "img/2-768x576.jpg"
+  alt = "Yaşam Koçlarıyla Kariyer Planlamaları"
   stretch = "horizontal"
 +++
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+Yaşam koçları, kendi danışanlarına ait üst limitlerin keşfedilmesini sağlar. Kişilerin potansiyellerinin en üst seviyeye çıkmasını sağlayan yaşam koçları, zamanla danışanlarının kendisinde var olan üst limitlerin de keşfedilmesine olanak sağlar.
 <!--more-->
 
-## Headings
-
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-## Paragraph
-
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
-
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
-
-## Blockquotes
-
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
-
-#### Blockquote without attribution
-
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
-
-#### Blockquote with attribution
-
-> Don't communicate by sharing memory, share memory by communicating.</p>
-> — <cite>Rob Pike[^1]</cite>
-
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
-
-## Tables
-
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
-
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
-
-#### Inline Markdown within tables
-
-| Inline&nbsp;&nbsp;&nbsp;     | Markdown&nbsp;&nbsp;&nbsp;  | In&nbsp;&nbsp;&nbsp;                | Table      |
-| ---------- | --------- | ----------------- | ---------- |
-| *italics*  | **bold**  | ~~strikethrough~~&nbsp;&nbsp;&nbsp; | `code`     |
-
-## Code Blocks
-
-#### Code block with backticks
-
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
-#### Code block indented with four spaces
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-      <meta charset="UTF-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
-
-#### Code block with Hugo's internal highlight shortcode
-{{< highlight html >}}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
-* List item
-* Another item
-* And another item
-
-#### Nested list
-
-* Item
-    1. First Sub-item
-    2. Second Sub-item
-
-## Other Elements — abbr, sub, sup, kbd, mark
-
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
-
-H<sub>2</sub>O
-
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
-
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
-
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+ Yaşam koçu olarak hizmet veren uzmanlar, kariyer planlama ve kişisel gelişim konusunda da birçok yönlendirme yapabilir, kişinin kendisinde yer edinen becerilerinin de ortaya çıkmasında yardımcı olur.
+Yaşam Koçu – Yaşam Koçluğu Hizmeti
+Kişisel gelişim konusunda yaşam koçluğu hizmeti alan birçok insan, hayatlarına daha aktif olarak devam ederler. Yaşadıkları problemler karşısında üstün bir çözüm üretemeyen ve aynı zamanda yaşam koçu uzmanlarından hizmet alan birçok insan, zamanla tüm sorunların üstesinden gelmeyi başarır ve kendi iradeleriyle birlikte yeteneklerini de keşfetmeye başlarlar. 
+Bununla birlikte ilerleyen dönemler için kendilerine hedef belirleyen birçok insan, hedeflerine ilerleyemediğini fark eder. Yaşam koçlarından destek alan ve kişisel gelişimini ön plana taşıyan insanlar ise, hedeflerine her gün bir adım daha yaklaşır ve kendi potansiyellerini en üst seviyeden göstermeye başlar. Yeteneklerini, düşünce güçlerini, hedeflerini ve yapabildiklerini daima bir adım ileri taşıyan danışanlar, yaşam koçlarından da destek almayı bırakmazlar.
+Yaşam Koçlarıyla Kariyer Planlamaları
+Yaşam koçları, öncelikle kendi danışanlarının problemlerini anlamaya çalışır. Alanında uzmanlaşan bu kişiler, ilk etapta danışanların küçük problemlerine çözüm önerileri sunarken ilerleyen zamanlarda da kariyer planlamaları üzerinde durulur. Danışanların bir hedefi yoksa veya belirlenen hedefe ulaşım sağlanamıyorsa, alanında uzman olan yaşam koçları bu konuyla da detaylıca ilgilenir ve adeta bir yol haritası çizer. 
+Danışanlar, kendileri için belirlenen yol haritasında ilerleyerek ve mücadele ederek hedeflerine ulaşabilirler. Bu sırada da yaşam koçları, danışanları sürekli olarak telkin eder ve danışanın özgüveni de ortaya çıkarılır.
+Yaşam koçlarına başvuran ve koçluk hizmeti isteyen birçok danışanın, zaten kendilerine ait bir yüksek potansiyeli vardır. Ancak hayat boyunca özgüven eksikliği yaşanırsa, danışanlar bu potansiyelleri keşfedemez ve doğrudan belirlenen hedeflere ilerleyemezler. Danışmanlık süresi boyunca ilk etapta küçük problemlerin ortadan kaldırılmasına yardımcı olunur, sonrasında özgüven problemleri ortadan kaldırılır ve danışanlar zamanla kendi potansiyellerinin ne kadar yüksek seviyede olduğunu belirleyebilir.
+Yaşam koçu olarak hizmet veren birçok uzman, çeşitli eğitimlerden geçerek koçluk sertifikası edinmiştir. Bu nedenle insanların problemlerinin nasıl çözülebileceğini ve potansiyellerin nasıl keşfedilebileceğini iyi bilen uzmanlar, koçluk dönemi boyunca bütün sorunların ortadan kalkmasına yardımcı olacaklardır. 
+Sorunların ve özgüven problemlerinin ortadan kalkmasından hemen sonra da, hayata dair birçok planlama yapılabilir ve yol haritaları çizilebilir. Kendi potansiyellerini ve neler yapabileceklerini keşfeden danışanlar, bu yol haritalarında çok rahat bir ilerleme kaydedecektir. Bir süre sonra, koçluk hizmetine dahi gerek kalmadan danışanlar kendi yollarını çizebilecek, keşfettikleri benlikleriyle istedikleri hedefe çok rahat bir şekilde ulaşacaklardır.
