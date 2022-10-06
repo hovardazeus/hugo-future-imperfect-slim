@@ -5,6 +5,8 @@ author = "Admin"
 date = "2022-10-06"
 tags = ["markdown", "css", "html", "themes"]
 categories = ["themes", "syntax"]
+[[images]]
+  src = "img/2-768x576.jpg"
   alt = "Yaşam Koçlarıyla Kariyer Planlamaları"
   stretch = "horizontal"
 +++
