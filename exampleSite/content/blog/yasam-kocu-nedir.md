@@ -1,7 +1,12 @@
-title = "Yaşam Koçu Nedir"
++++
+title = "Yaşam koçu nedir"
 description = "Yaşam koçluğu, genellikle kişisel ve mesleki gelişime odaklanan bir meslektir."
-author = "Yaşam Koçu"
-date = "2022-10-16"
+author = "Admin"
+date = "2022-10-06"
+tags = ["markdown", "css", "html", "themes"]
+categories = ["themes", "syntax"]
+  alt = "Yaşam Koçlarıyla Kariyer Planlamaları"
+  stretch = "horizontal"
 +++
 
 Yaşam koçluğu, genellikle kişisel ve mesleki gelişime odaklanan bir meslektir.
