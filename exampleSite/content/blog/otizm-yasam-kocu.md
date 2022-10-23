@@ -2,7 +2,7 @@
 title = "Otizm Yaşam Koçu Nedir ?"
 description = "Yaşam koçluğu, kişilerin geri bildirim, destek ve hesap verebilirlik sağlayarak hedeflerini belirlemelerine ve gerçekleştirmelerine yardımcı olan kişiselleştirilmiş, hedef odaklı bir süreçtir. ."
 author = "Admin"
-date = "2022-10-12"
+date = "2022-10-18"
 tags = ["markdown", "css", "html", "themes"]
 categories = ["themes", "syntax"]
 [[images]]
